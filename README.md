@@ -27,8 +27,9 @@ Combino a visão de negócio de quem atua em vendas B2B com a base técnica de q
 - Estratégias e lógicas
 
 ## Projetos em destaque
-- [Nome do projeto em C](link): uma linha sobre o que faz
-- [Nome do projeto em Java](link): uma linha sobre o que faz
+- [Sistema de gerenciamento de produtos Java]([link](https://github.com/Daniel-Pereira-TI-dpr/Projeto-Java--Produtos)): Sistema  para cadastro e gerenciamento de produtos, desenvolvido em Java, com foco em aprendizado de Programação Orientada a Objetos (POO), organização de projetos e boas práticas de desenvolvimento.
+  
+- [Jogo Batalha naval em C ]([link](https://github.com/Daniel-Pereira-TI-dpr/desafio-batalha-naval-Em-C/tree/main)): Simulação de Batalha Naval em C puro: tabuleiro 10x10 com navios (horizontal, vertical e diagonais) validados por limites e sobreposição, e habilidades especiais em formato de cruz, cone e octaedro. 
 
 ## Contato
 [LinkedIn](https://br.linkedin.com/in/danielpereirati) · [E-mail](danielpereira167o@gmail.com)
