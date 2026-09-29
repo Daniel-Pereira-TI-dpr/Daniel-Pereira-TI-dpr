@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel 👋
+# Olá, eu sou o Daniel 
 
 **Estudante de Análise e Desenvolvimento de Sistemas (4º período) | SDR B2B em SaaS** 📍 Anápolis, GO 🇧🇷
 
