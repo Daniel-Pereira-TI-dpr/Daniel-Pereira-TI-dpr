@@ -31,4 +31,4 @@ Combino a visão de negócio de quem atua em vendas B2B com a base técnica de q
 - [Nome do projeto em Java](link): uma linha sobre o que faz
 
 ## Contato
-[LinkedIn](https://br.linkedin.com/in/danielpereirati) · [E-mail](mailto:danielpereira167o@gmail.com)
+[LinkedIn](https://br.linkedin.com/in/danielpereirati) · [E-mail](danielpereira167o@gmail.com)
