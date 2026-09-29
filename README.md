@@ -33,4 +33,4 @@ Combino a visão de negócio de quem atua em vendas B2B com a base técnica de q
 
 ## Contato
 [LinkedIn](https://br.linkedin.com/in/danielpereirati) · [E-mail](danielpereira167o@gmail.com)
- esta assi, consegue deixar profissional com um banner de fundo
+
